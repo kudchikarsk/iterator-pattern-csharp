@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iterator-pattern-csharp", "iterator-pattern-csharp\iterator-pattern-csharp.csproj", "{6D96A90D-F207-470D-A49F-E2A20DE9625E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6D96A90D-F207-470D-A49F-E2A20DE9625E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D96A90D-F207-470D-A49F-E2A20DE9625E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D96A90D-F207-470D-A49F-E2A20DE9625E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D96A90D-F207-470D-A49F-E2A20DE9625E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {690177CB-5CBF-411E-B61E-C00463DE7018}
+	EndGlobalSection
+EndGlobal
