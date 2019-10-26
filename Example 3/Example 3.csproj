@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{6D96A90D-F207-470D-A49F-E2A20DE9625E}</ProjectGuid>
+    <ProjectGuid>{FC28A9B2-8455-487B-B971-36C0EB887FC3}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>iterator_pattern_csharp</RootNamespace>
-    <AssemblyName>iterator-pattern-csharp</AssemblyName>
+    <RootNamespace>Example_3</RootNamespace>
+    <AssemblyName>sample3</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
