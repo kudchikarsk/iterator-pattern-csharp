@@ -1,6 +1,6 @@
 # Iterator Pattern In C# Demo
 
-This solution is a part of post [Iterator Pattern C#](https://kudchikarsk.com/iterator-pattern-csharp/)
+This solution is a part of my blog post [Iterator Pattern C#](https://kudchikarsk.com/iterator-pattern-csharp/)
 
 
 Solution contains various Windows Forms App / Console App Project for different Publisher-Subscriber Design Pattern concepts in C#.
